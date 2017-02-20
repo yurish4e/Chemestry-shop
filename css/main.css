@@ -1,0 +1,15 @@
+#wrapper {
+    min-width: 960px;
+    min-height: 100%;
+    outline: 1px solid #666;
+    }
+
+#header {
+    /*background-color: white;*/
+    background-image:url('images/1.png');
+    height: 221px;
+    width: 960px;
+    outline: 1px solid #FF00AE;
+    margin: 0 auto;
+    
+}
